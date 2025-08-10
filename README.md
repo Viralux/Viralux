@@ -1,4 +1,3 @@
-# greeting
 # 👋 Welcome to Viralux
 
 **Bringing ideas to light and spreading them far.** ✨  
