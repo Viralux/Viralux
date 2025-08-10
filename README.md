@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 I’m an IT Specialist (Fachinformatiker) expanding my skills in **Python** and **Web Development**.  
-My mission with Viralux: to create digital solutions that **spread** like great ideas and **illuminate** like light.
+My mission with Viralux: to create digital solutions that **spread** like great ideas and **enlight** like light.
 
 ---
 
